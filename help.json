@@ -1,0 +1,8 @@
+{
+	"Economy": {
+		"bal": "bal <user>\nShows the balance of the user. If no user specified, shows your own",
+		"company": "company [info <company tag>/start]\nYou can either start a company (Requires $10k) or view stats about an existing company. If no tag entered, shows stats about all companies",
+		"buy": "buy [type] <amount>\nAllows you to buy stocks.",
+		"sell": "sell [type] <amount>\nAllows you to sell stocks."
+	}
+}
